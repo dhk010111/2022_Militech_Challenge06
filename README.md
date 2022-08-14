@@ -50,3 +50,6 @@
         --model-path OUT_DIR/demo/checkpoint.pt.best \
         --args-from-store data,dataset,arch,patch_size
   ```    
+
+## Extract 2D Patch
+`src/extract_2Dpatch.py`에서 주석달린 부분 경로 설정해주고 patch size 지정, class 지정해주면 colab에서 이미지 생성
