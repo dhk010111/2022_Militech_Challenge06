@@ -9,7 +9,7 @@
 ## 설정(Colab에서 진행)
 0. Google Drive 연결 및 임의의 Workspace 폴더 생성
 
-1. %cd '/workspace 경로/
+1. %cd '/workspace 경로/'
 
 2.  Clone repo: `!git clone https://github.com/microsoft/unadversarial.git`
 
