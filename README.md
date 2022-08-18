@@ -60,3 +60,8 @@
 
 ## Doing-
 extract_2Dpatch 파일에서 example의 size 및 생성 개수에 대한 코드 수정 중..
+
+
+
+### Dataset(Classification에 사용할 데이터셋)
+https://drive.google.com/drive/folders/15ctZhzgMUtBvl3ji6nOq3GhkRktwRooS?usp=sharing
