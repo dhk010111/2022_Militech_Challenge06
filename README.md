@@ -53,3 +53,10 @@
 
 ## Extract 2D Patch
 `src/extract_2Dpatch.py`에서 주석달린 부분 경로 설정해주고 patch size 지정, class 지정해주면 colab에서 이미지 생성
+현재 경로 src 폴더
+```
+!python extract_2Dpatch.py
+```
+
+## Doing-
+extract_2Dpatch 파일에서 example의 size 및 생성 개수에 대한 코드 수정 중..
