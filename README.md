@@ -1,6 +1,7 @@
-# Unadversarial Examples: Designing Objects for Robust Vision
+# 감시정찰을 위한 딥러닝 기반 표적 인식 알고리즘 연구(2022.04-2022.11)
+* 2022 밀리테크 챌린지 우수상(한국과학기술원 총장상)
 
-**Unadversarial Examples: Designing Objects for Robust Vision** <br>
+* Unadversarial Examples: Designing Objects for Robust Vision
 *Hadi Salman\*, Andrew Ilyas\*, Logan Engstrom\*, Sai Vemprala, Aleksander Madry, Ashish Kapoor* <br>
 [**Paper**](https://arxiv.org/abs/2012.12235) <br>
 [**Blogpost (MSR)**](https://www.microsoft.com/en-us/research/blog/unadversarial-examples-designing-objects-for-robust-vision/) <br> 
